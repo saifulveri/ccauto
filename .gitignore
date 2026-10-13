@@ -1,0 +1,6 @@
+.ccauto-state.json
+__pycache__/
+*.pyc
+.claude.json
+.credentials*
+*.env
